@@ -37,5 +37,7 @@ To get the project up and running on your local machine, follow these steps:
 
 * osamah abdullah, ID: 2110213617
 
+## THE VIDEO
+https://youtu.be/unfCYZfP5Dc?si=0lkGVMh4bU-7VCyx
 
 
